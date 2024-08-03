@@ -1,4 +1,4 @@
-package com.javaApplication.usingS3.service;
+package com.javaApplication.usingS3.Service;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.PutObjectRequest;
